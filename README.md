@@ -26,7 +26,7 @@ A powerful, AI-powered invoice extraction and management system. This applicatio
 
 ### 2. Intelligent Extraction & Editing
 *Review extracted data, edit line items, and see instant calculations.*
-![Extraction Result](public/extract.png)
+![Extraction Result](public/Extract.png)
 
 ### 3. History & Management
 *Track past invoices and download records.*
@@ -127,4 +127,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by [Rishi Pathak]
